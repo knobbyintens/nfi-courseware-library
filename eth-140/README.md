@@ -2,10 +2,10 @@
 
 Courseware study pack for Northfield Institute mandatory training module ETH-140.
 
-## Repository Status
+## Pack Status
 **🚧 To be released**
 
-This repository will contain the activity source, scenario datasets, facilitator walkthroughs and knowledge checks for the module once the materials are finalised.
+This study pack will contain the activity source, scenario datasets, facilitator walkthroughs and knowledge checks for the module once the materials are finalised.
 
 ## Coming Soon
 - facilitator notes
