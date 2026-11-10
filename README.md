@@ -1,15 +1,7 @@
-# LBR-204 — Biohazard Spill Response
+# Northfield Institute courseware library
 
-Courseware study pack for Northfield Institute mandatory training module LBR-204.
+Facilitator-facing study packs for mandatory training modules.
 
-## Release Status
-Released — v1.0 (2026-06-02)
+Each folder is named after the module code in lower case and contains the activity source, scenario data, facilitator walkthroughs and knowledge checks for that module.
 
-## Contents
-- src/ — activity source
-- data/ — scenario datasets
-- notebooks/ — facilitator walkthroughs
-- tests/ — knowledge checks
-
-## Usage
-Follow the facilitator notes in `data/facilitator_notes.md`.
+Packs are added as the materials are finalised. Open a pack's README for its publication status.
