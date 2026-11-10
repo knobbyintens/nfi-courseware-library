@@ -1,0 +1,2 @@
+# activity scaffold
+print('courseware')
